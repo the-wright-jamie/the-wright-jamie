@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Most of the contributions I will do will happen in the organisation I'm a part of on this account. You can't see the projects in there right now, but soon I wlll open source the project once I graduate :P
+
 <!--
 **the-wright-jamie/the-wright-jamie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
