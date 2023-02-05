@@ -1,4 +1,4 @@
-<center><img src="sink.jpg" height="180px"><img src="cat1.png" height="180px"><img src="ears.png" height="180px"><img src="cat3.png" height="180px"></center>
+<p float="middle"><img src="sink.jpg" height="180px"><img src="cat1.png" height="180px"><img src="ears.png" height="180px"><img src="cat3.png" height="180px"></p>
 
 <!--### Hello! 👋
 
