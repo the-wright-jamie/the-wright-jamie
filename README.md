@@ -1,6 +1,19 @@
-### Hi there 👋
+### Hello! 👋
 
-Most of the contributions I will do will happen in the organisation I'm a part of on this account. You can't see the projects in there right now, but soon I wlll open source the project once I graduate :P
+I'm a software developer with an interest in cyber security. I'm currently working on "Get Outside", a disability-friendly location index. This is currently a secret project as I'm working on it for my coursework at university.
+
+The technologies that I'm well versed in are:
+
+- Java
+- Kotlin
+  - Android + Jetpack Compose
+- TypeScript
+- Angular
+- PostgreSQL
+
+I enjoy experimenting with different languages and software - I'm currently trying out Fedora Linux on my laptop.
+
+<img src="sink.jpg" height="240px">
 
 <!--
 **the-wright-jamie/the-wright-jamie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
