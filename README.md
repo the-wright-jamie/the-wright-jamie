@@ -1,4 +1,4 @@
-<div align="center"><p float="middle"><img src="sink.jpg" height="180px"><img src="well.jpg" height="180px"><img src="ears.png" height="180px"><img src="cat1.png" height="180px"></p></div>
+<div align="center"><p float="middle"><img src="memes/sink.jpg" height="180px"><img src="memes/well.jpg" height="180px"><img src="memes/ears.png" height="180px"><img src="memes/cat1.png" height="180px"></p></div>
 
 <!--### Hello! 👋
 
