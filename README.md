@@ -9,9 +9,32 @@
 <h3> Profile Hits </h3>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthe-wright-jamie1212%2Fhit-counter">
 </div>
+  
+<h3> Profile Stats </h3>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=the-wright-jamie&show_icons=true&theme=dark&count_private=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=the-wright-jamie&show_icons=true&count_private=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=the-wright-jamie&show_icons=true&count_private=true" />
+</picture>
 
 <h3> Commit Streak </h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-wright-jamie&theme=dark">
+<picture>
+<source 
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=the-wright-jamie&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=the-wright-jamie"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-wright-jamie&theme=dark" />
+</picture>
 
 <h3> Badges </h3>
 
