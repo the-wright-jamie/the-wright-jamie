@@ -1,3 +1,4 @@
+Check out the free and open blog that anyone can write for: <https://xsfs.xyz/>
 <div align="center"><p float="middle"><img src="memes/sink.jpg" height="180px"><img src="memes/well.jpg" height="180px"><img src="memes/ears.png" height="180px"><img src="memes/cat1.png" height="180px"></p></div>
 
 <details>
