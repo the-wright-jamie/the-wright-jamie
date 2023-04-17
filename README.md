@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915.svg)](https://wakatime.com/@604ea863-2306-4cbd-95b6-d2dbf642c915)  
+[![wakatime](https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915.svg?style=for-the-badge)](https://wakatime.com/@604ea863-2306-4cbd-95b6-d2dbf642c915)  
 Check out the free and open blog that anyone can write for: <https://xsfs.xyz/>
 <div align="center"><p float="middle"><img src="memes/sink.jpg" height="180px"><img src="memes/well.jpg" height="180px"><img src="memes/ears.png" height="180px"><img src="memes/cat1.png" height="180px"></p></div>
 
