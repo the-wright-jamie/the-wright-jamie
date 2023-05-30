@@ -45,9 +45,6 @@ Check out the free and open blog that anyone can write for: <https://xsfs.xyz/>
 <img src="https://img.shields.io/badge/Cobalt-Custom_Build-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"> <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"> <img src="https://img.shields.io/badge/Ryzen_9_3900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-RTX3070_FE-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </div>
 <div>
-<img src="https://img.shields.io/badge/razer-Blade_15_2020-44D62D?style=for-the-badge&logo=razer&logoColor=25252"> <img src="https://img.shields.io/badge/Fedora_Linux-294172?style=for-the-badge&logo=fedora&logoColor=white">
-</div>
-<div>
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white">
 </div>
 <div>
