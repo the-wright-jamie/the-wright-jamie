@@ -7,14 +7,21 @@
 <hr>
 
 ### A bit about me
-Hi! I'm Jamie, and I am an all around technology enthusiast. 
 
-<div align="center"><p float="middle"><img src="memes/chat_noir.jpeg" height="180px"></p></div>
+I enjoy programming in my spare time, and I do security work in my day job. I'm well versed in many programming languages: some having been picked up from my job, some picked up out of necessity (to fulfill niche bespoke coding requests for example) and some picked up in academia for coursework projects. I have been programming since ~2015, and today I am able to pick up new languages quickly and as needed.
+
+I also enjoy learning, [experimenting](https://xsfs.xyz/article?title=bait-and-switch&year=2023) and sharing knowledge. [I have a blog](https://xsfs.xyz/) that I occasionally write for to share some of the knowledge I have acquired, and at work I often lead a Cyber Security workshop for work experience students.
+
+I have experience with the three major operating systems, Linux; Windows and macOS. 
+
+If you'd like to know more, and read a fully indepth about me, you [visit my personal website](https://the-wright-jamie.dev/).
+
 <hr>
-
 
 <details>
 <summary> Extra Stats </summary>
+
+<div align="center"><p float="middle"><img src="memes/sink.jpg" height="180px"><img src="memes/well.jpg" height="180px"><img src="memes/ears.png" height="180px"><img src="memes/horses.jpeg" height="180px"></p></div>
 
 <picture>
 <source 
@@ -50,5 +57,7 @@ Hi! I'm Jamie, and I am an all around technology enthusiast.
 <div>
 <img src="https://img.shields.io/badge/Steam_Deck-000000?style=for-the-badge&logo=steam&logoColor=white">
 </div>
+
+<div align="center"><p float="middle"><img src="memes/chat_noir.jpeg" height="180px"></p></div>
 
 </details>
