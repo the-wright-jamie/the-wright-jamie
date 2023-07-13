@@ -1,11 +1,11 @@
-[![wakatime](https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915.svg?style=for-the-badge)](https://wakatime.com/@the_wright_jamie)  
+# Welcome!
+<img src="https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915.svg" /> <img src="https://img.shields.io/badge/(since 16th April 2023)-blue">
+<div align="center"><p float="middle"><img src="memes/chat_noir.jpeg" height="180px"></p></div>
+<hr>
 
-<div align="center"><p float="middle"><img src="memes/sink.jpg" height="180px"><img src="memes/well.jpg" height="180px"><img src="memes/ears.png" height="180px"><img src="memes/chat_noir.jpeg" height="180px"></p></div>
 
 <details>
-<summary> Fun Stuff </summary>
-
-<h3> Hello 👋 and welcome to my profile! Here's some interesting stuff about what's going on </h3>
+<summary> Other Stats </summary>
 
 <div>
 <h3> Profile Hits </h3>
