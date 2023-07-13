@@ -8,13 +8,13 @@
 
 ### A bit about me
 
-I enjoy programming in my spare time, and I do security work in my day job. I'm well versed in many programming languages: some having been picked up from my job, some picked up out of necessity (to fulfill niche bespoke coding requests for example) and some picked up in academia for coursework projects. I have been programming since ~2015, and today I am able to pick up new languages quickly and as needed.
+I enjoy programming in my spare time and I do security work in my day job. I'm well versed in many programming languages (most of which have been listed in the badges above): some have been picked up from my job, some picked up out of necessity (to fulfil niche bespoke coding requests for example) and some picked up in academia for coursework projects. I have been programming since ~2015, and today I am able to pick up new languages quickly and as needed.
 
 I also enjoy learning, [experimenting](https://xsfs.xyz/article?title=bait-and-switch&year=2023) and sharing knowledge. [I have a blog](https://xsfs.xyz/) that I occasionally write for to share some of the knowledge I have acquired, and at work I often lead a Cyber Security workshop for work experience students.
 
 I have experience with the three major operating systems, Linux; Windows and macOS. 
 
-If you'd like to know more, and read a fully indepth about me, you [visit my personal website](https://the-wright-jamie.dev/).
+If you'd like to know more and read a fully in-depth about me, you can [visit my personal website](https://the-wright-jamie.dev/).
 
 <hr>
 
@@ -23,6 +23,7 @@ If you'd like to know more, and read a fully indepth about me, you [visit my per
 
 <div align="center"><p float="middle"><img src="memes/sink.jpg" height="180px"><img src="memes/well.jpg" height="180px"><img src="memes/ears.png" height="180px"><img src="memes/horses.jpeg" height="180px"></p></div>
 
+<div align="center">
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=the-wright-jamie&show_icons=true&theme=dark&count_private=true"
@@ -46,16 +47,18 @@ If you'd like to know more, and read a fully indepth about me, you [visit my per
 />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-wright-jamie&theme=dark" />
 </picture>
+</div>
+
 
 <h4> Development (& other) Machines </h4>
 <div>
-<img src="https://img.shields.io/badge/Cobalt-Custom_Build-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"> <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"> <img src="https://img.shields.io/badge/Ryzen_9_3900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-RTX3070_FE-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+<img src="https://img.shields.io/badge/Cobalt-Custom_Build-3982CE?logo=Prisma&logoColor=white"> <img src="https://img.shields.io/badge/Windows_11-0078d4?logo=windows-11&logoColor=white"> <img src="https://img.shields.io/badge/Ryzen_9_3900X-ED1C24?logo=amd&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-RTX3070_FE-76B900?logo=nvidia&logoColor=white">
 </div>
 <div>
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?logo=apple&logoColor=white">
 </div>
 <div>
-<img src="https://img.shields.io/badge/Steam_Deck-000000?style=for-the-badge&logo=steam&logoColor=white">
+<img src="https://img.shields.io/badge/Steam_Deck-000000?logo=steam&logoColor=white">
 </div>
 
 <div align="center"><p float="middle"><img src="memes/chat_noir.jpeg" height="180px"></p></div>
