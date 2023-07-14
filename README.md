@@ -26,7 +26,7 @@ If you'd like to know more and read a fully in-depth about me, you can [visit my
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-wright-jamie&theme=transparent" />
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=the_wright_jamie&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=the_wright_jamie&layout=compact&theme=transparent"/>
 </div>
 
 
