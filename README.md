@@ -21,6 +21,8 @@ If you'd like to know more and read a fully in-depth about me, you can [visit my
 <details>
 <summary> Extra Stats </summary>
 
+<br/>
+
 <div align="center"><p float="middle"><img src="memes/sink.jpg" height="180px"><img src="memes/well.jpg" height="180px"><img src="memes/ears.png" height="180px"><img src="memes/horses.jpeg" height="180px"></p></div>
 
 <div align="center">
