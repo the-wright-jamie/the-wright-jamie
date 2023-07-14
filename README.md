@@ -1,4 +1,4 @@
-<img src="memes/terminal.gif" />
+<img src="memes/terminal.gif" alt="Weclome to my GitHub Profile"/>
 <hr>
 
 <a href="https://wakatime.com/@the_wright_jamie"><img src="https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915.svg"> <img src="https://img.shields.io/badge/(since 16th April 2023)-blue" /></a>  
