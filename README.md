@@ -10,7 +10,7 @@
 
 I enjoy programming in my spare time and I do security work in my day job. I'm well versed in many programming languages as well as technologies (most of which have been listed in the badges above): some have been picked up from my job, some picked up out of necessity (to fulfil niche bespoke coding requests for example) and some picked up in academia for coursework projects. I have been programming since ~2015, and today I am able to pick up new languages quickly and as needed.
 
-I also enjoy learning, [experimenting](https://xsfs.xyz/article/2023/bait-and-switch) and sharing knowledge. [I have a blog](https://xsfs.xyz/) that I occasionally write for to share some of the knowledge I have acquired, and at work I often lead a Cyber Security workshop for work experience students.
+I also enjoy learning, [experimenting](https://xsfs.xyz/articles/2023/bait-and-switch) and sharing knowledge. [I have a blog](https://xsfs.xyz/) that I occasionally write for to share some of the knowledge I have acquired, and at work I often lead a Cyber Security workshop for work experience students.
 
 I have experience with the three major operating systems, Linux; Windows and macOS.
 
