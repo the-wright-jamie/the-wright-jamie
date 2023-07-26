@@ -19,6 +19,16 @@ If you'd like to know more and read a fully in-depth about me, you can [visit my
 <hr>
 
 <details>
+<summary> What do the emoji's beside my commits mean? </summary>
+
+✨ - Additions to the code, like new features or methods  
+♻️ - change to a feature's functionality unrelated to bugs  
+🪲 - bug fix, full or partial  
+🗑️ - removal of code, like obsolete methods or variables  
+
+</details>
+
+<details>
 <summary> Extra Stats </summary>
 
 <br/>
