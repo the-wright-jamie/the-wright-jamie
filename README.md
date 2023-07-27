@@ -22,6 +22,8 @@ If you'd like to know more and read a fully in-depth about me, you can [visit my
 <details>
 <summary> What do the emoji's beside my commits mean? </summary>
 
+<br/>
+
 | Emoji | Description                                            |
 | :---: | ------------------------------------------------------ |
 |  ✨   | Additions to the code, such as new features or methods |
