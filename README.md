@@ -27,8 +27,8 @@ If you'd like to know more and read a fully in-depth about me, you can [visit my
 | Emoji | Description                                            |
 | :---: | ------------------------------------------------------ |
 |  ✨   | Additions to the code, such as new features or methods |
-|  ♻️   | Change to a feature's behaviour unrelated to bugs      |
-|  🪲   | Bug fix, full or partial                               |
+|  🖊️   | Change to a feature's behaviour unrelated to bugs      |
+|  🔧   | Bug fix, full or partial                               |
 |  🗑️   | Removal of code, such as obsolete methods or variables |
 
 </details>
