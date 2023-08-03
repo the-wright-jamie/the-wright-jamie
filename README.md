@@ -29,6 +29,7 @@ If you'd like to know more and read a fully in-depth about me, you can [visit my
 |  ✨   | Additions to the code, such as new features or methods |
 |  🖊️   | Change to a feature's behaviour unrelated to bugs      |
 |  🔧   | Bug fix, full or partial                               |
+|  💣   | Commit is broken and may not build                     |
 |  🗑️   | Removal of code, such as obsolete methods or variables |
 
 </details>
