@@ -1,9 +1,27 @@
 <img src="memes/terminal.gif" alt="Weclome to my GitHub Profile"/>
 <hr>
 
+<h4>Time in IDEs</h4>
 <a href="https://wakatime.com/@the_wright_jamie"><img src="https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915.svg"> <img src="https://img.shields.io/badge/(since 16th April 2023)-blue" /></a>
 
+<h4>Capabilities</h4>
+<div>
 <img src="https://img.shields.io/badge/android-000000?logo=android"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=ffffff"> <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?logo=jetpackcompose&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&message=|&color=222222"> <img src="https://img.shields.io/badge/Rust-000000?logo=rust"> <img src="https://img.shields.io/badge/Java-2F2625?logo=coffeescript"> <img src="https://img.shields.io/badge/C%23-239120?logo=csharp"> <img src="https://img.shields.io/static/v1?label=&message=Python&logo=python&color=3776AB&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&message=Shell Script&logo=windowsterminal&color=4D4D4D&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&message=|&color=222222"> <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular"> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000"> <img src="https://img.shields.io/badge/Node JS-339933?logo=nodedotjs&logoColor=ffffff"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=ffffff"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=ffffff"> <img src="https://img.shields.io/badge/Vanilla HTML/CSS/JS-8669AE?logo=circle&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&message=|&color=222222"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=ffffff"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&message=|&color=222222"> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000000"> <img src="https://img.shields.io/badge/Windows-008080?logo=windows95&logoColor=ffffff"> <img src="https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&message=|&color=222222"> <img src="https://img.shields.io/badge/Code-007ACC?logo=visualstudiocode&logoColor=ffffff"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=ffffff"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&message=|&color=222222"> <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=ffffff"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=ffffff">
+</div>
+
+<h4> Machines </h4>
+<div>
+<img src="https://img.shields.io/badge/Cobalt-Custom_Build-3982CE?logo=Prisma&logoColor=white"> <img src="https://img.shields.io/badge/Windows_11-0078d4?logo=windows-11&logoColor=white"> <img src="https://img.shields.io/badge/Ryzen_9_3900X-ED1C24?logo=amd&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-RTX3070_FE-76B900?logo=nvidia&logoColor=white">
+</div>
+<div>
+<img src="https://img.shields.io/badge/Microsoft-Surface_Pro_7-0078d4?logo=microsoft&logoColor=white"> <img src="https://img.shields.io/badge/Fedora Linux-51A2DA?logo=fedora&logoColor=white">
+</div>
+<div>
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?logo=apple&logoColor=white">
+</div>
+<div>
+<img src="https://img.shields.io/badge/Steam_Deck-000000?logo=steam&logoColor=white">
+</div>
 
 <hr>
 
@@ -32,32 +50,15 @@ If you'd like to know more and read a fully in-depth about me, you can [visit my
 |  💣   | Commit is broken and may not build                     |
 |  🗑️   | Removal of code, such as obsolete methods or variables |
 
-</details>
-
 <details>
-<summary> Extra Stats </summary>
+<summary> 😛🤫 </summary>
 
 <br/>
 
 <div align="center"><p float="middle"><img src="memes/sink.jpg" height="180px"><img src="memes/well.jpg" height="180px"><img src="memes/ears.png" height="180px"><img src="memes/horses.jpeg" height="180px"></p></div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-wright-jamie&theme=transparent" />
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=the_wright_jamie&layout=compact&theme=transparent"/>
-</div>
-
-<h4> Development (& other) Machines </h4>
-<div>
-<img src="https://img.shields.io/badge/Cobalt-Custom_Build-3982CE?logo=Prisma&logoColor=white"> <img src="https://img.shields.io/badge/Windows_11-0078d4?logo=windows-11&logoColor=white"> <img src="https://img.shields.io/badge/Ryzen_9_3900X-ED1C24?logo=amd&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-RTX3070_FE-76B900?logo=nvidia&logoColor=white">
-</div>
-<div>
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?logo=apple&logoColor=white">
-</div>
-<div>
-<img src="https://img.shields.io/badge/Steam_Deck-000000?logo=steam&logoColor=white">
-</div>
-
 <div align="center"><p float="middle"><img src="memes/chat_noir.jpeg" height="180px"></p></div>
+
+</details>
 
 </details>
