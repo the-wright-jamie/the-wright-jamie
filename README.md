@@ -18,34 +18,18 @@
 |      IDEs      | <img src="https://img.shields.io/badge/Code-007ACC?logo=visualstudiocode&logoColor=ffffff"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=ffffff"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=ffffff">                                                                                                                                                                                                                                   |
 | Infrastructure | <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=ffffff"> <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=ffffff"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=ffffff">                                                                                                                                                                                                                                                              |
 
-<div>
-
-</div>
-<div>
-
-</div>
-<div>
-
-</div>
-<div>
-
-</div>
-<div>
-
-</div>
-
 <h4> Current Machines </h4>
 <div>
-<a href=""><img src="https://img.shields.io/badge/Cobalt-Custom_Build-3982CE?logo=Prisma&logoColor=white"> <img src="https://img.shields.io/badge/Windows_11-0078d4?logo=windows-11&logoColor=white"> <img src="https://img.shields.io/badge/Ryzen_9_3900X-ED1C24?logo=amd&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-RTX3070_FE-76B900?logo=nvidia&logoColor=white"></a>
+<a href="https://raw.githubusercontent.com/the-wright-jamie/the-wright-jamie/main/memes/puter.jpg"><img src="https://img.shields.io/badge/Cobalt-Custom_Build-3982CE?logo=Prisma&logoColor=white"> <img src="https://img.shields.io/badge/Windows_11-0078d4?logo=windows-11&logoColor=white"> <img src="https://img.shields.io/badge/Ryzen_9_3900X-ED1C24?logo=amd&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-RTX3070_FE-76B900?logo=nvidia&logoColor=white"></a>
 </div>
 <div>
-<img src="https://img.shields.io/badge/Microsoft-Surface_Pro_7-0078d4?logo=microsoft&logoColor=white"> <img src="https://img.shields.io/badge/Fedora Linux-51A2DA?logo=fedora&logoColor=white">
+<a href="https://raw.githubusercontent.com/the-wright-jamie/the-wright-jamie/main/memes/surface.jpg"><img src="https://img.shields.io/badge/Microsoft-Surface_Pro_7-0078d4?logo=microsoft&logoColor=white"> <img src="https://img.shields.io/badge/Fedora Linux-51A2DA?logo=fedora&logoColor=white"></a>
 </div>
 <div>
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?logo=apple&logoColor=white">
 </div>
 <div>
-<img src="https://img.shields.io/badge/Steam_Deck-000000?logo=steam&logoColor=white">
+<a href="https://raw.githubusercontent.com/the-wright-jamie/the-wright-jamie/main/memes/deck.jpg"><img src="https://img.shields.io/badge/Steam_Deck-000000?logo=steam&logoColor=white"></a>
 </div>
 
 <hr>
