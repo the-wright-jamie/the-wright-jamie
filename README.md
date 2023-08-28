@@ -36,13 +36,15 @@
 
 ### A bit about me
 
-I enjoy programming in my spare time and I do security work in my day job. I'm well versed in many programming languages as well as technologies (most of which have been listed in the badges above): some have been picked up from my job, some picked up out of necessity (to fulfil niche bespoke coding requests for example) and some picked up in academia for coursework projects. I have been programming since ~2015, and today I am able to pick up new languages quickly and as needed.
+I enjoy programming in my spare time and I do security work in my day job. I'm well versed in many programming languages as well as technologies (most of which have been listed in the badges above): some have been picked up from my job, some picked up out of necessity (to fulfill niche bespoke coding requests for example) and some picked up in academia for coursework projects. I have been programming since ~2015, and today I am able to pick up new languages quickly and as needed.
 
-I also enjoy learning, [experimenting](https://xsfs.xyz/articles/2023/bait-and-switch) and sharing knowledge. [I have a blog](https://xsfs.xyz/) that I occasionally write for to share some of the knowledge I have acquired, and at work I often lead a Cyber Security workshop for work experience students.
+I think open-source is awesome. Where possible, I endeavor to make any little or big projects I create available on this account. I'm also always looking for ways to contribute to other projects as well. Of course, life is busy, so I don't get to do an awful lot. But I like to contribute where possible.
 
-I have experience with the three major operating systems, Linux; Windows and macOS.
+I also enjoy learning, [experimenting](https://xsfs.xyz/articles/2023/bait-and-switch), and sharing knowledge. [I have a blog](https://xsfs.xyz/) that I occasionally write to share some of the knowledge I have acquired, and at work I often lead a Cyber Security workshop for work experience students.
 
-If you'd like to know more and read a fully in-depth about me, you can [visit my personal website](https://the-wright-jamie.dev/).
+I have experience with the three major operating systems, Linux; Windows, and macOS.
+
+If you'd like to know more and read a full in-depth about me, you can [visit my personal website](https://the-wright-jamie.dev/).
 
 <hr>
 
@@ -54,10 +56,12 @@ If you'd like to know more and read a fully in-depth about me, you can [visit my
 | Emoji | Description                                            |
 | :---: | ------------------------------------------------------ |
 |  ✨   | Additions to the code, such as new features or methods |
-|  🖊️   | Change to a feature's behaviour unrelated to bugs      |
+|  🖊️   | Change to a feature's behavior unrelated to bugs      |
 |  🔧   | Bug fix, full or partial                               |
 |  💣   | Commit is broken and may not build                     |
 |  🗑️   | Removal of code, such as obsolete methods or variables |
+
+This is kind of an alternative to other, more traditional ways of showing commit types like `feat:`, `chore:` and `fix:`.
 
 <details>
 <summary><sup><sub> 😛🤫 </sup></sub></summary>
