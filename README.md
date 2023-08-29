@@ -61,17 +61,4 @@ If you'd like to know more and read a full in-depth about me, you can [visit my 
 |  💣   | Commit is broken and may not build                     |
 |  🗑️   | Removal of code, such as obsolete methods or variables |
 
-This is kind of an alternative to other, more traditional ways of showing commit types like `feat:`, `chore:` and `fix:`.
-
-<details>
-<summary><sup><sub> 😛🤫 </sup></sub></summary>
-
-<br/>
-
-<div align="center"><p float="middle"><img src="memes/sink.jpg" height="180px"><img src="memes/well.jpg" height="180px"><img src="memes/ears.png" height="180px"><img src="memes/horses.jpeg" height="180px"></p></div>
-
-<div align="center"><p float="middle"><img src="memes/chat_noir.jpeg" height="180px"></p></div>
-
-</details>
-
 </details>
