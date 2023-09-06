@@ -20,10 +20,10 @@
 
 <h4> Current Machines </h4>
 <div>
-<a href="https://raw.githubusercontent.com/the-wright-jamie/the-wright-jamie/main/memes/puter.jpg"><img src="https://img.shields.io/badge/Cobalt-Custom_Build-3982CE?logo=Prisma&logoColor=white"> <img src="https://img.shields.io/badge/Windows_11-0078d4?logo=windows-11&logoColor=white"> <img src="https://img.shields.io/badge/Ryzen_9_3900X-ED1C24?logo=amd&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-RTX3070_FE-76B900?logo=nvidia&logoColor=white"></a>
+<a href="https://raw.githubusercontent.com/the-wright-jamie/the-wright-jamie/main/memes/puter.jpg"><img src="https://img.shields.io/badge/Cobalt-Custom_Build-3982CE?logo=Prisma&logoColor=white"> <img src="https://img.shields.io/badge/Fedora Linux-51A2DA?logo=fedora&logoColor=white"> <img src="https://img.shields.io/badge/Ryzen_9_3900X-ED1C24?logo=amd&logoColor=white"> <img src="https://img.shields.io/badge/Radeon_RX_6900_XT-ED1C24?logo=amd&logoColor=white"></a>
 </div>
 <div>
-<a href="https://raw.githubusercontent.com/the-wright-jamie/the-wright-jamie/main/memes/surface.jpg"><img src="https://img.shields.io/badge/Microsoft-Surface_Pro_7-0078d4?logo=microsoft&logoColor=white"> <img src="https://img.shields.io/badge/Fedora Linux-51A2DA?logo=fedora&logoColor=white"></a>
+<a href="https://raw.githubusercontent.com/the-wright-jamie/the-wright-jamie/main/memes/surface.jpg"><img src="https://img.shields.io/badge/Microsoft-Surface_Pro_7-0078d4?logo=microsoft&logoColor=white"> <img src="https://img.shields.io/badge/Windows_11-0078d4?logo=windows-11&logoColor=white"></a>
 </div>
 <div>
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?logo=apple&logoColor=white">
