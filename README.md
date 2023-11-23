@@ -49,6 +49,18 @@ If you'd like to know more and read a full in-depth about me, you can [visit my 
 <hr>
 
 <details>
+<summary> (Recorded) Time Spent on Public Projects </summary>
+
+<br/>
+
+| Project | Time                                            |
+| :---: | ------------------------------------------------------ |
+|  [Tab Nine](https://github.com/the-wright-jamie/tab-nine)   | [![wakatime](https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915/project/d6bded51-12b8-442e-a37c-607e58f3bd84.svg)](https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915/project/d6bded51-12b8-442e-a37c-607e58f3bd84) |
+|  [depcheck-json-parser](https://github.com/the-wright-jamie/depcheck-json-parser)   | [![wakatime](https://wakatime.com/badge/github/the-wright-jamie/depcheck-json-parser.svg)](https://wakatime.com/badge/github/the-wright-jamie/depcheck-json-parser)      |
+
+</details>
+
+<details>
 <summary> What do the emoji's beside my commits mean? </summary>
 
 <br/>
@@ -56,8 +68,7 @@ If you'd like to know more and read a full in-depth about me, you can [visit my 
 | Emoji | Description                                            |
 | :---: | ------------------------------------------------------ |
 |  ✨   | Additions to the code, such as new features or methods |
-|  🖊️   | Change to a feature's behavior unrelated to bugs      |
-|  🔧   | Bug fix, full or partial                               |
+|  🔧   | Change to a feature's behavior or bug fix, full or partial |
 |  💣   | Commit is broken and may not build                     |
 |  🗑️   | Removal of code, such as obsolete methods or variables |
 
