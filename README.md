@@ -71,6 +71,7 @@ If you'd like to know more and read a full in-depth about me, you can [visit my 
 | :---: | ------------------------------------------------------ |
 |  ✨   | Additions to the code, such as new features or methods |
 |  🔧   | Change to a feature's behavior or bug fix, full or partial |
+|  📂   | Moving of code to different folders |
 |  💣   | Commit is broken and may not build                     |
 |  🗑️   | Removal of code, such as obsolete methods or variables |
 
