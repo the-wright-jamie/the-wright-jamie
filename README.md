@@ -59,7 +59,7 @@ If you'd like to know more and read a full in-depth about me, you can [visit my 
 | :---: | ------------------------------------------------------ |
 |  [Tab Nine](https://github.com/the-wright-jamie/tab-nine)   | [![wakatime](https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915/project/d6bded51-12b8-442e-a37c-607e58f3bd84.svg)](https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915/project/d6bded51-12b8-442e-a37c-607e58f3bd84) |
 |  [depcheck-json-parser](https://github.com/the-wright-jamie/depcheck-json-parser)   | [![wakatime](https://wakatime.com/badge/github/the-wright-jamie/depcheck-json-parser.svg)](https://wakatime.com/badge/github/the-wright-jamie/depcheck-json-parser)      |
-| [overwatch](https://github.com/the-wright-jamie/overwatch) (not yet released) | [![wakatime](https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915/project/018e2e09-9e88-4a88-8d32-f42291728636.svg)](https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915/project/018e2e09-9e88-4a88-8d32-f42291728636) |
+| [overwatch](https://github.com/the-wright-jamie/overwatch) | [![wakatime](https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915/project/018e2e09-9e88-4a88-8d32-f42291728636.svg)](https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915/project/018e2e09-9e88-4a88-8d32-f42291728636) |
 
 </details>
 
