@@ -36,19 +36,19 @@
 
 <hr>
 
-### A bit about me
+<details>
+  <summary>My Core Creative Principles</summary>
 
-I enjoy programming in my spare time and I do security work in my day job. I'm well versed in many programming languages as well as technologies (most of which have been listed in the badges above): some have been picked up from my job, some picked up out of necessity (to fulfill niche bespoke coding requests for example) and some picked up in academia for coursework projects. I have been programming since ~2015, and today I am able to pick up new languages quickly and as needed.
+1. Learning is important. Always be curious, always be humble.  
 
-I think open-source is awesome. Where possible, I endeavor to make any little or big projects I create available on this account. I'm also always looking for ways to contribute to other projects as well. Of course, life is busy, so I don't get to do an awful lot. But I like to contribute where possible.
+2. Share your knowledge. We start by knowing nothing, and often learn from those who gave their knowledge for free
 
-I also enjoy learning, [experimenting](https://xsfs.xyz/articles/2023/bait-and-switch), and sharing knowledge. [I have a blog](https://xsfs.xyz/) that I occasionally write to share some of the knowledge I have acquired, and at work I often lead a Cyber Security workshop for work experience students.
+3. Try new things. If you can afford it, try implementing something in a different way.
 
-I have experience with the three major operating systems, Linux; Windows, and macOS.
+4. Listen to others. They might have a perspective you didn't think of.
 
-If you'd like to know more and read a full in-depth about me, you can [visit my personal website](https://the-wright-jamie.dev/).
-
-<hr>
+5. Be patient/tenacious. [It took Dyson 5,127 prototypes](https://www.jamesdysonfoundation.co.uk/who-we-are/our-story.html) to realise his ideas.
+</details>
 
 <details>
 <summary> (Recorded) Time Spent on Public Projects </summary>
@@ -64,6 +64,7 @@ If you'd like to know more and read a full in-depth about me, you can [visit my 
 </details>
 
 <details>
+  
 <summary> What do the emoji's beside my commits mean? </summary>
 
 <br/>
