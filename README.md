@@ -4,7 +4,9 @@
 <hr>
 
 <h4>Time in IDEs</h4>
-<a href="https://wakatime.com/@the_wright_jamie"><img src="https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915.svg"> <img src="https://img.shields.io/badge/(since 16th April 2023)-blue" /></a>
+<a href="https://wakatime.com/@the_wright_jamie"><img src="https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915.svg"></a>
+
+<sup><sub>(records began 16th April 2023)</sub></sup>
 
 <h4>Technologies worked with</h4>
 <center><sup><sub>These are all the software technologies I have experience with, and am familiar with or am comfortable using. Lower on the list in a row = more recently introduced</sub></sup></center>
