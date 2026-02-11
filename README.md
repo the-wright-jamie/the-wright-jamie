@@ -1,37 +1,11 @@
 <img src="memes/welcome2.gif" width="100%"/>
-<hr>
+
+# Heya, I'm Jamie!
 
 <a href="https://wakatime.com/@the_wright_jamie"><img src="https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915.svg"></a>
-<sup>(Recorded Time in IDEs)</sup>
 
-<details>
-<summary>Technologies worked with</summary>
-<center><sup><sub>These are all the software technologies I have experience with, and am familiar with or am comfortable using. Lower on the list in a row = more recently introduced</sub></sup></center>
+I like to dabble in lots of different things. My profile is mostly a graveyard of discontinued experiments 😁 I'm currently interested in Systems Design, learning about how we can sustainably architect software in a way that supports future development while still allowing rapid prototyping and MVP deliverables. That's a nice little bit of management speak, isn't it? Succinctly sums up my goal though.
 
-|     Domain     | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| :------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| General Purpose | <img src="https://img.shields.io/static/v1?label=&message=Python&logo=python&color=3776AB&logoColor=ffffff"> <img src="https://img.shields.io/badge/Java-2F2625?logo=coffeescript"> <img src="https://img.shields.io/badge/C%23-239120?logo=fsharp&logoColor=ffffff"> <img src="https://img.shields.io/badge/Git-f74e27?logo=git&logoColor=ffffff"> <img src="https://img.shields.io/static/v1?label=&message=Shell%20Script&logo=gnometerminal&color=4D4D4D&logoColor=ffffff"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=ffffff"> <img src="https://img.shields.io/badge/Rust-000000?logo=rust">  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=ffffff">                                                                                |
-|     Mobile     | <img src="https://img.shields.io/badge/android-000000?logo=android"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=ffffff"> <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?logo=jetpackcompose&logoColor=ffffff">                                                                                                                                                                                                                                                                     |
-|      Web       | <img src="https://img.shields.io/badge/Standard%20HTML/CSS/JS-8669AE?logo=circle&logoColor=ffffff"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=ffffff"> <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular"> <img src="https://img.shields.io/badge/Node JS-339933?logo=nodedotjs&logoColor=ffffff"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=ffffff"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=ffffff"> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=ffffff"> <img src="https://img.shields.io/badge/Vue-41B883?logo=vuedotjs&logoColor=ffffff">  |
-|   Databases    | <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=ffffff"> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=ffffff"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=ffffff">                                                                                                                                                                                                                                                                |
-|      OSes      | <img src="https://img.shields.io/badge/Windows-008080?logo=internetcomputer&logoColor=ffffff"> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000000">  <img src="https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=ffffff">                                                                                                                                                                                                                                                                       |
-|      IDEs      | <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=internetcomputer&logoColor=ffffff"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=ffffff">  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=ffffff"> <img src="https://img.shields.io/badge/Code-007ACC?logo=internetcomputer&logoColor=ffffff"> <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=ffffff">                                                                                                                                                                                                                           |
-| Infrastructure | <img src="https://img.shields.io/badge/Azure-0078D4?logo=internetcomputer&logoColor=ffffff"> <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=ffffff"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=ffffff">                                                                                                                                                                                                                                                              |
-| Security Testing |  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=ffffff"> <img src="https://img.shields.io/badge/ZAP-000000?logo=owasp&logoColor=ffffff"> <img src="https://img.shields.io/badge/BurpSuite-FF6633?logo=portswigger&logoColor=ffffff">  <img src="https://img.shields.io/badge/OWASP Dependency Check/Track-F78D0A?logo=owasp-dependency-check&logoColor=ffffff"> |
-</details>
+I love details and technicalities, I think the theory of things can help us understand the problems we face and lead to the development of better ideas. Especially as AI interrupts our industry, the core understanding of what we are doing here is going to be more and more key to SWE's future.
 
-<details>
-  
-<summary> What do the emoji's beside my commits mean? </summary>
-
-<br/>
-
-| Emoji | Description                                            |
-| :---: | ------------------------------------------------------ |
-|  ✨   | Additions to the code, such as new features or methods |
-|  🔧   | Change to a feature's behavior or bug fix, full or partial |
-|  📂   | Moving of code to different folders |
-|  💣   | Commit is broken and may not build                     |
-|  🗑️   | Removal of code, such as obsolete methods or variables |
-
-</details>
+Feel free to check out my highlights below, as well as my [portfolio website](https://the-wright-jamie.dev/). If you want to get in touch, feel free to use the email linked on the right.
