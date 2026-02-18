@@ -1,7 +1,7 @@
 <img src="memes/welcome2.gif" width="100%"/>
 
 # Heya, I'm Jamie!
-![](https://img.shields.io/date/1569225600.svg?label=SWE%20since&colorB=blue&style=for-the-badge) [![Wakatime](https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915.svg?style=for-the-badge)](https://wakatime.com/@the_wright_jamie) 
+[![Software Engineer since Sept 2019](https://img.shields.io/date/1569225600.svg?label=SWE%20since&colorB=blue&style=for-the-badge)](https://the-wright-jamie.dev/#/whoami) [![Wakatime](https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915.svg?style=for-the-badge)](https://wakatime.com/@the_wright_jamie) 
 
 ## Current Language Rotation
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
