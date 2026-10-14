@@ -3,8 +3,6 @@
 # Heya, I'm Jamie!
 [![Software Engineer since Sept 2019](https://img.shields.io/badge/SWE_since-Sept_2019-blue?style=for-the-badge)](https://the-wright-jamie.dev/#/whoami) [![Wakatime](https://wakatime.com/badge/user/604ea863-2306-4cbd-95b6-d2dbf642c915.svg?style=for-the-badge)](https://wakatime.com/@the_wright_jamie) [![Personal Website](https://img.shields.io/badge/Personal_website-blue?style=for-the-badge)](https://the-wright-jamie.dev/)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 ## About me
 
 I like to dabble in lots of different things. My profile is mostly a graveyard of discontinued experiments 😁 I'm currently interested in Systems Design, learning about how we can sustainably architect software in a way that supports future development while still allowing rapid iterative prototyping - moving fast, without breaking our core.
